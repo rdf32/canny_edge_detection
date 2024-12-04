@@ -1,3 +1,5 @@
+<img src="pthread_canny.png" width="500">
+
 Sequential
 
 Compile
